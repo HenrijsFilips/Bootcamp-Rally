@@ -7,7 +7,6 @@ A Python application for managing rally racing teams, cars, races, and results u
 - `snowflake_db.py`: Database connection and transaction management
 - `rally_data_access.py`: Data access module for rally operations
 - `streamlit_app.py`: Streamlit web interface
-- `quick_test.py`: Test script to demonstrate functionality
 
 ## Setup
 
@@ -25,6 +24,4 @@ A Python application for managing rally racing teams, cars, races, and results u
    - SNOWFLAKE_DATABASE
 
 ## Usage
-
-- Run tests: `python quick_test.py`
 - Run web app: `streamlit run streamlit_app.py`
